@@ -29,8 +29,7 @@
   </parent>
 
   <artifactId>rapidpm-junit5-commons</artifactId>
-  <packaging>pom</packaging>
-  <version>01.00.00-RPM</version>
+  <version>01.00.01-RPM</version>
 
 
   <inceptionYear>2017</inceptionYear>
